@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_ins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Instagram" />
+    <item
+        android:id="@+id/action_wps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Whatsapp" />
+    <item
+        android:id="@+id/action_face"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Facebook" />
+</menu>
